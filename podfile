@@ -1,3 +1,9 @@
 
-pod 'SBJson', '~> 4.0.2'
+platform :ios, '9.0'
 
+target 'Socks' do
+
+pod 'SBJson', '~> 4.0.2'
+    
+
+end
